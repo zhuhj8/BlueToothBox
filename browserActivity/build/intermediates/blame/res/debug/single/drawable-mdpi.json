@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__toast_frame.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__toast_frame.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_primary_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\progress_primary_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_battery_75.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_battery_75.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_autosearch_plus_disable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_autosearch_plus_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_pressed_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_pause.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_pause.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_pause_enable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_pause_enable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_music_sj.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_music_sj.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_transparent_light_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_play_disable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_play_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_cab_done_focused_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cab_background_bottom_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\spinner_ab_focused_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_device_connected.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_device_connected.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_single.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_single.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_solid_dark_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_battery_25.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_battery_25.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_secondary_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_48_inner_holo.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_bottom_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_batteryincharge_full.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_batteryincharge_full.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_alarm_on.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_alarm_on.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_autosearch_plus_enable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_autosearch_plus_enable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_normal.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_default_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tuesday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_tuesday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_play_enable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_play_enable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_search_api_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_sound_max.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_sound_max.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_secondary_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\progress_secondary_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_folder.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_folder.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_music_kg.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_music_kg.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_shuffle_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_shuffle_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_manualadjust_plus_disable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_manualadjust_plus_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_commit_search_api_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_bg_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_thursday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_thursday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_selected_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_top_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_all_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_all_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_manualadjust_reduce_disable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_manualadjust_reduce_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_progress_thumb_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_progress_thumb_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_autosearch_reduce_disable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_autosearch_reduce_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\tab_selected_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_pause_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_pause_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_setting.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_setting.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_48_outer_holo.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_solid_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ab_solid_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_yinx_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_yinx_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_progress_thumb.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_progress_thumb.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wednesday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_wednesday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_single_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_single_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_sound_min.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_sound_min.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_battery_0.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_battery_0.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_checkbox_on.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_checkbox_on.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_shutdown.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_shutdown.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_cab_done_holo_dark.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_monday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_monday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_ab_back_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_clock.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_clock.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_cab_done_default_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_dropdown_panel_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_manualadjust_reduce_enable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_manualadjust_reduce_enable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_album_cover_default.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_album_cover_default.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_friday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_friday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_batteryincharge_75.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_batteryincharge_75.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_placeholder_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_placeholder_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_alarm_off.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_alarm_off.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_manualadjust_plus_enable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_manualadjust_plus_enable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_battery_50.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_battery_50.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_pressed_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_primary_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_share_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_checkbox_off.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_checkbox_off.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sunday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_sunday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_pre.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_pre.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_slidingmenu_connection.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_slidingmenu_connection.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_selected_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_share_pack_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_secondary_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\spinner_ab_pressed_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_batteryincharge_0.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_batteryincharge_0.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_go.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_solid_light_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_focused_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_bg_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_batteryincharge_50.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_batteryincharge_50.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_pressed_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_next_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_next_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_longpressed_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_bottom_solid_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_top_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_search.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_search.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_divider_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_selected_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_bg_selected.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\list_bg_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_selected_focused_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_unselected_focused_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_battery_100.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_battery_100.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_next_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_next_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_autosearch_reduce_enable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_autosearch_reduce_enable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_share_pack_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tuesday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_tuesday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\spinner_ab_default_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_solid_light_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_default_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_voice_search_api_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_selected_pressed_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wednesday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_wednesday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_default_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_focused_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\list_focused_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_bottom_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_focused_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_activated_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_cab_done_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_saturday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_saturday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_shuffle.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_shuffle.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_refresh.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_saturday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_saturday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_file.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_file.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fm_pause_disable.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\fm_pause_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_solid_shadow_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_device_media_connected.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_device_media_connected.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_next.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_next.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_bg_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\progress_bg_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_thursday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_thursday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_friday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_friday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sunday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_sunday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_monday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_monday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_default_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_fm.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_fm.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_divider_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_batteryincharge_25.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_batteryincharge_25.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_aux.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_aux.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cab_background_top_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\cab_background_top_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_search.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_play_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_play_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_selected_focused_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_play.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_play.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_disconnection.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_disconnection.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_disabled.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_aux_cover_default.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_aux_cover_default.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_search_api_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_previous.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_previous.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_bluetooth.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_bluetooth.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_icon.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_voice_search.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_next.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_next.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_pre_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_pre_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_yinx.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_yinx.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_folder_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_folder_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_battery_full.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_battery_full.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_primary_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_bg.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\list_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_buffering.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\progress_buffering.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_go_search_api_holo_light.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_share_holo_dark.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\add_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_ab_back_holo_dark.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_speaker.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_speaker.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_cab_done_pressed_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_batteryincharge_100.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_batteryincharge_100.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_unselected_pressed_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_transparent_dark_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_loop_all.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_loop_all.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ico_usb.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ico_usb.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_device_disconnected.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_device_disconnected.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_previous_focused.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_previous_focused.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\spinner_ab_disabled_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_transparent_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ab_transparent_androidbootstrap.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_default_holo_light.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-mdpi\\abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_placeholder.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ic_music_placeholder.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_stacked_solid_androidbootstrap.9.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_androidbootstrap.9.png"
+    }
+]

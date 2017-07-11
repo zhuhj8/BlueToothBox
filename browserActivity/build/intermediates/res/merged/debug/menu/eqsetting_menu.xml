@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/abs__ic_menu_moreoverflow_normal_holo_light"
+        android:showAsAction="always"
+        android:title="@string/action_settings">
+        <menu>
+            <item
+                android:id="@+id/eqsetting"
+                android:showAsAction="withText"
+                android:title="@string/menu_item_eqsound"
+                android:titleCondensed="@string/menu_item_eqsound"
+                android:visible="true">
+            </item>
+        </menu>
+    </item>
+
+</menu>

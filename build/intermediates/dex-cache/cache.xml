@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\build\intermediates\exploded-aar\Android project3\slidingMenuLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5868ff3f1cc43a72a48e1b913e251af66d162679">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\Android project3-slidingMenuLibrary-unspecified_2cce9bb31baf5bed582ffff294a829100b344415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\com.actionbarsherlock-actionbarsherlock-4.4.0_8b330e03962167e318d2373ac876d8e4211dc766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\libs\ibluz.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="12a0739feab4b9145353c6fceb19ae526661c85e">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\ibluz_6ed313db3ac4a907f9442311655efd6681227bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\libs\appcompat_v7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b2d9f83181635731db297fd7c59a9049c5ccbffd">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\appcompat_v7_b7a8f5238d79fb52de74afb29433ec85d324eeed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_e553e959709c3a0f1af9aa6a67d22779500f1336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2a34130d5632679e17a3d7bcde18b6a61c59f0a">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\Sunflower_7c17c6ee562e704f335eebff4e3a43af88194d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6490d46678cc51ecd56be6bf2ab741ea940c61b8">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\Msc_ebe68a3d8dfaac9f9c8360568c516f6a20abefef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_5b16f73fbc8a40c20d77aefb75b595d0c21c6c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android project3\browserActivity\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\Android\Android project3\browserActivity\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_b988bb57181d451a11c160a46933c2def085c1a5.jar" />
+    </item>
+
+</items>

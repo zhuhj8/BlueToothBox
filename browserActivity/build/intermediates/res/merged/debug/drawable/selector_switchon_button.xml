@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/fm_play_disable" android:state_pressed="true" />
+    <item android:drawable="@drawable/fm_play_enable" android:state_pressed="false" />
+	<item android:drawable="@drawable/fm_play_enable" />
+</selector>

@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_switch_style.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\checkbox_switch_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_loop_all_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_loop_all_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_loop_single_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_loop_single_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\imagebutton_click_background.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\imagebutton_click_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_incharge.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\battery_incharge.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\fm_manualadjust_plus_btn.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\fm_manualadjust_plus_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_muteoff_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_muteoff_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\fm_manualadjust_reduce_btn.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\fm_manualadjust_reduce_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_music_btn.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\shape_music_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_list_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\shape_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\fm_autosearch_reduce_btn.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\fm_autosearch_reduce_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_box_fragment_bg_selector.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\tool_box_fragment_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_loop_shuffle_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_loop_shuffle_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_androidbootstrap.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\spinner_background_ab_androidbootstrap.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_previous_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_previous_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\add_buttonbackground.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\add_buttonbackground.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_androidbootstrap.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\tab_indicator_ab_androidbootstrap.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_androidbootstrap.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\progress_horizontal_androidbootstrap.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_androidbootstrap.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selectable_background_androidbootstrap.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_thursday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_thursday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\battery.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\battery.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_loop_folder_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_loop_folder_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\fm_seekbar_thumb.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\fm_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_androidbootstrap.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\pressed_background_androidbootstrap.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_monday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_monday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_saturday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_saturday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_wednesday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_wednesday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_switchoff_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_switchoff_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\eq_seekbar_style.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\eq_seekbar_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_friday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_friday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sunday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_sunday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_switchon_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_switchon_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_androidbootstrap.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\btn_cab_done_androidbootstrap.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_discharge.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\battery_discharge.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\add_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_muteon_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_muteon_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tuesday_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_tuesday_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_play_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_play_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pause_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_pause_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_music_btn.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_music_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\fm_autosearch_plus_btn.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\fm_autosearch_plus_btn.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_on_off_style.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\alarm_on_off_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_next_button.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\selector_next_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\add_alarm.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable\\add_alarm.xml"
+    }
+]

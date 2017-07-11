@@ -1,0 +1,2 @@
+include ':slidingMenuLibrary'
+include ':browserActivity'

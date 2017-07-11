@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="layout_full">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="layout_wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="layout_horizontal" parent="layout_full">
+        <item name="android:layout_width">0px</item>
+    </style>
+
+    <style name="layout_vertical" parent="layout_full">
+        <item name="android:layout_height">0px</item>
+    </style>
+
+    <style name="Theme.AndroidBluetoothbox" parent="@style/Theme.Sherlock.Light">
+        <item name="actionBarItemBackground">@drawable/selectable_background_androidbootstrap</item>
+        <item name="popupMenuStyle">@style/PopupMenu.Androidbootstrap</item>
+        <item name="dropDownListViewStyle">@style/DropDownListView.Androidbootstrap</item>
+        <item name="actionBarTabStyle">@style/ActionBarTabStyle.Androidbootstrap</item>
+        <item name="actionDropDownStyle">@style/DropDownNav.Androidbootstrap</item>
+        <item name="actionBarStyle">@style/ActionBar.Solid.Androidbootstrap</item>
+        <item name="actionModeBackground">@drawable/cab_background_top_androidbootstrap</item>
+        <item name="actionModeSplitBackground">@drawable/cab_background_bottom_androidbootstrap</item>
+        <item name="actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Androidbootstrap</item>
+    </style>
+
+    <style name="Widget">
+        <item name="android:background">#d6d6d6</item>
+    </style>
+
+    <style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">20dip</item>
+        <item name="android:paddingRight">20dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style>
+
+    <style name="ActionBar.Solid.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ActionBar.Solid">
+        <item name="background">@drawable/ab_solid_androidbootstrap</item>
+        <item name="backgroundStacked">@drawable/ab_stacked_solid_androidbootstrap</item>
+        <item name="backgroundSplit">@drawable/ab_bottom_solid_androidbootstrap</item>
+        <item name="progressBarStyle">@style/ProgressBar.Androidbootstrap</item>
+    </style>
+
+    <style name="ActionBar.Transparent.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ActionBar">
+        <item name="background">@drawable/ab_transparent_androidbootstrap</item>
+        <item name="progressBarStyle">@style/ProgressBar.Androidbootstrap</item>
+    </style>
+
+    <style name="PopupMenu.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_androidbootstrap</item>
+    </style>
+
+    <style name="DropDownListView.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_androidbootstrap</item>
+    </style>
+
+    <style name="ActionBarTabStyle.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_androidbootstrap</item>
+    </style>
+
+    <style name="DropDownNav.Androidbootstrap" parent="@style/Widget.Sherlock.Light.Spinner.DropDown.ActionBar">
+        <item name="android:background">@drawable/spinner_background_ab_androidbootstrap</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_androidbootstrap</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_androidbootstrap</item>
+    </style>
+
+    <style name="ProgressBar.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_androidbootstrap</item>
+    </style>
+
+    <style name="ActionButton.CloseMode.Androidbootstrap" parent="@style/Widget.Sherlock.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_androidbootstrap</item>
+    </style>
+
+    <!-- this style is only referenced in a Light.DarkActionBar based theme -->
+    <style name="Theme.Androidbootstrap.Widget" parent="@style/Theme.Sherlock">
+        <item name="popupMenuStyle">@style/PopupMenu.Androidbootstrap</item>
+        <item name="dropDownListViewStyle">@style/DropDownListView.Androidbootstrap</item>
+    </style>
+
+    <style name="text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">15dp</item>
+    </style>
+
+    <style name="seek" parent="@style/text">
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <style name="repeatCheckboxSunday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_sunday_checkbox</item>
+    </style>
+
+    <style name="repeatCheckboxMonday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_monday_checkbox</item>
+    </style>
+
+    <style name="repeatCheckboxTuesday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_tuesday_checkbox</item>
+    </style>
+
+    <style name="repeatCheckboxWednesday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_wednesday_checkbox</item>
+    </style>
+
+    <style name="repeatCheckboxThursday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_thursday_checkbox</item>
+    </style>
+
+    <style name="repeatCheckboxFriday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_friday_checkbox</item>
+    </style>
+
+    <style name="repeatCheckboxSaturday" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_saturday_checkbox</item>
+    </style>
+
+</resources>

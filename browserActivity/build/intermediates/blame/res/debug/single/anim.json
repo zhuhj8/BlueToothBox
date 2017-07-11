@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\anim\\fragment_fade_out.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\anim\\fragment_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\anim\\fragment_fade_in.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\anim\\fragment_fade_in.xml"
+    }
+]

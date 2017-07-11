@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Spinner
+        android:id="@+id/eqTypeSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:minWidth="50dp" />
+
+    <LinearLayout
+        android:id="@+id/eqSettingLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+           >
+
+            <TextView
+                android:id="@+id/placeholderText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_above="@id/placeholderText"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:text="+12dB"
+                    android:textColor="@color/forestgreen"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="0dB"
+                    android:textColor="@color/forestgreen"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:text="-12dB"
+                    android:textColor="@color/forestgreen"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text80Hz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="80"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency80HzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text80Hz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp"
+                />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text200Hz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="200"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency200HzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text200Hz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text500Hz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="500"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency500HzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text500Hz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text1KHz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="1K"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency1KHzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text1KHz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text4KHz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="4K"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency4KHzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text4KHz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text8KHz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="8K"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency8KHzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text8KHz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/text16KHz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:text="16K"
+                android:textColor="@color/forestgreen"
+                android:textSize="16sp" />
+
+            <com.actions.bluetoothbox.util.VerticalSeekBar
+                android:id="@+id/frequency16KHzBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/text16KHz"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:max="24"
+                android:maxWidth="16dp"
+                android:minWidth="16dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:progress="12"
+                android:progressDrawable="@drawable/eq_seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"
+                android:thumbOffset="3dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

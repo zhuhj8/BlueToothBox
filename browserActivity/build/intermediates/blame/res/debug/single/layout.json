@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_connection_dialog.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\bluetooth_connection_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pager_music_info.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\pager_music_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_uhost.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_uhost.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarmclock.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_alarmclock.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\Android project3\\slidingMenuLibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\remotemusiclist_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\remotemusiclist_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\alarmclock_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\alarmclock_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_rec_cardplayback.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_rec_cardplayback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_radio.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_linein.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_linein.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_slideoutmenu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_slideoutmenu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_radio.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_eqsetting.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\dialog_eqsetting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pager_music_list.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\pager_music_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\main_left_fragment.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\main_left_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\main_state.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\main_state.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_connection.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_connection.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pager_music_lyric.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\pager_music_lyric.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\connection_layout.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\connection_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_alarmclock.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_alarmclock.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_remotemusic.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_remotemusic.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_a2dpmusic.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_a2dpmusic.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_connection.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\fragment_connection.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_item_tmp.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\device_list_item_tmp.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\eq_spinner_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\eq_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\radiostore_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\radiostore_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_a2dpmusic.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_a2dpmusic.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_remotemusic.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_remotemusic.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_linein.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_linein.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\alarmclock_setting.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\alarmclock_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_rec_uhostplayback.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_rec_uhostplayback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    }
+]

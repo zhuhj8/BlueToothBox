@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_dae_type">
+        <item>虚拟低音</item>
+        <item>高音增强</item>
+    </string-array>
+    <string-array name="array_dialog_normal">
+        <item>提示</item>
+        <item>确认</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="array_dialog_usbinsert">
+        <item>检测到USB设备插入</item>
+        <item>进入USB音箱</item>
+        <item>仅充电</item>
+    </string-array>
+    <string-array name="array_message_body">
+        <item>选择进入音箱，将会与设备断开连接</item>
+    </string-array>
+
+</resources>

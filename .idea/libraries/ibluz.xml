@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ibluz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/browserActivity/libs/ibluz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

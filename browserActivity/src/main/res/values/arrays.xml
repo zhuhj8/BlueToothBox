@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_eq_type">
+
+        <!-- <item>Normal</item> -->
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Classical</item>
+        <item>Soft</item>
+        <item>DBB</item>
+        <item>Rock</item>
+        <item>User</item>
+    </string-array>
+    <string-array name="array_dae_type">
+        <item>Vbass</item>
+        <item>Treble</item>
+    </string-array>
+
+    <!--
+         <integer-array name="array_eq_normal">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    -->
+    <integer-array name="array_eq_jazz">
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="array_eq_pop">
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+    </integer-array>
+    <integer-array name="array_eq_classic">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-4</item>
+    </integer-array>
+    <integer-array name="array_eq_soft">
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="array_eq_dbb">
+        <item>5</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="array_eq_rock">
+        <item>5</item>
+        <item>3</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="array_eq_user">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="array_dialog_normal">
+        <item>Note</item>
+        <item>OK</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="array_dialog_usbinsert">
+        <item>USB insert detected</item>
+        <item>Enter</item>
+        <item>Charge only</item>
+    </string-array>
+    <string-array name="array_message_body">
+        <item>Select Enter will disconnect from device</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@drawable/ic_music_next_focused" android:state_pressed="true" />
+    <item android:drawable="@drawable/ic_music_next" android:state_pressed="false" />
+	<item android:drawable="@drawable/ic_music_next" />
+</selector>

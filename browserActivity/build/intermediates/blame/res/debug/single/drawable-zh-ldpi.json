@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_monday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_monday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_wednesday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_wednesday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_wednesday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_wednesday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_sunday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_sunday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_tuesday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_tuesday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_monday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_monday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_thursday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_thursday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_sunday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_sunday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_tuesday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_tuesday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_saturday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_saturday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_friday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_friday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_saturday.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_saturday.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_friday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_friday_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\drawable-zh-ldpi\\ic_thursday_h.png",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\drawable-zh-ldpi\\ic_thursday_h.png"
+    }
+]

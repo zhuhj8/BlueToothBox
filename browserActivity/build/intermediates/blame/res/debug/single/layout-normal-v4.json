@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\pager_music_lyric.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout-normal\\pager_music_lyric.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\fragment_remotemusic.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout-normal\\fragment_remotemusic.xml"
+    }
+]

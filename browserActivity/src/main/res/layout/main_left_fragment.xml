@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/tools_box_bg"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:id="@+id/llRoot"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/bluetoothboxTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10.0dip"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="10.0dip"
+            android:text="@string/ab_subtitle"
+            android:textColor="#ffa8a8a3"
+            android:textSize="20.0sp" />
+
+        <include
+            android:id="@+id/a2dpBtnLayout"
+            layout="@layout/sliding_item_a2dpmusic" />
+
+        <include
+            android:id="@+id/musicplayBtnLayout"
+            layout="@layout/sliding_item_remotemusic" />
+
+        <include
+            android:id="@+id/uhostBtnLayout"
+            layout="@layout/sliding_item_uhost" />
+
+        <include
+            android:id="@+id/radioBtnLayout"
+            layout="@layout/sliding_item_radio" />
+
+        <include
+            android:id="@+id/lineinBtnLayout"
+            layout="@layout/sliding_item_linein" />
+
+        <include
+            android:id="@+id/recCardPlayBackBtnLayout"
+            layout="@layout/sliding_item_rec_cardplayback" />
+
+        <include
+            android:id="@+id/recUhostPlayBackBtnLayout"
+            layout="@layout/sliding_item_rec_uhostplayback" />
+
+        
+        <RelativeLayout
+            android:id="@+id/specialCatalog1BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc1_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog2BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc2_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog3BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc3_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog4BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc4_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog5BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc5_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog6BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc6_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog7BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc7_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog8BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc8_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog9BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc9_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/specialCatalog10BtnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:background="@drawable/tool_box_fragment_bg_selector" >
+
+            <TextView
+                android:id="@+id/sc10_toolbox_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21.0dip"
+                android:drawablePadding="20.0dip"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#ffccccc6"
+                android:textSize="16.0sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/ico_file" />
+        </RelativeLayout>
+       
+
+        <include
+            android:id="@+id/alarmclockBtnLayout"
+            layout="@layout/sliding_item_alarmclock" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/tool_box_fragment_bg_selector" />
+
+        <include
+            android:id="@+id/connectionBtnLayout"
+            layout="@layout/sliding_item_connection" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.3299866dip"
+            android:background="#ff1c1c1b" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="#ff474745" />
+    </LinearLayout>
+
+</ScrollView>

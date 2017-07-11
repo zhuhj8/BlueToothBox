@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\radio_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\radio_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\listsetting4radio_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\listsetting4radio_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\soundsetting_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\soundsetting_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\disconnection_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\disconnection_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\eqsetting_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\eqsetting_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\connection_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\connection_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\listsetting4alarmclock_menu.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\listsetting4alarmclock_menu.xml"
+    }
+]
