@@ -1133,7 +1133,7 @@ containing a value of this type.
         public static final int abs__textButton=0x7f0c0018;
         public static final int abs__title=0x7f0c0020;
         public static final int abs__up=0x7f0c0005;
-        public static final int action_delete=0x7f0c00ce;
+        public static final int action_delete=0x7f0c00cd;
         public static final int add_alarm=0x7f0c006d;
         public static final int advancedViewPager=0x7f0c0085;
         public static final int alarmDescriptionText=0x7f0c0038;
@@ -1148,7 +1148,7 @@ containing a value of this type.
         public static final int alarms_list=0x7f0c006e;
         public static final int albumCoverImage=0x7f0c0084;
         public static final int artistNameText=0x7f0c0088;
-        public static final int bandsetting=0x7f0c00d0;
+        public static final int bandsetting=0x7f0c00cf;
         public static final int battery=0x7f0c0079;
         public static final int batterylayout=0x7f0c0073;
         public static final int bluetoothboxTitleTextView=0x7f0c0098;
@@ -1163,7 +1163,7 @@ containing a value of this type.
         public static final int connectionBtnLayout=0x7f0c00b5;
         public static final int connectionStateImage=0x7f0c004d;
         public static final int controlPanelLayout=0x7f0c008c;
-        public static final int daesoundeffect=0x7f0c00d4;
+        public static final int daesoundeffect=0x7f0c00d3;
         public static final int device=0x7f0c004e;
         public static final int deviceListView=0x7f0c0048;
         public static final int deviceName=0x7f0c004a;
@@ -1172,12 +1172,11 @@ containing a value of this type.
         public static final int devicename_iv=0x7f0c0074;
         public static final int disableHome=0x7f0c000a;
         public static final int disconncectBtn=0x7f0c004f;
-        public static final int disconnect=0x7f0c00cb;
         public static final int edit_query=0x7f0c002b;
         public static final int eqSettingLayout=0x7f0c0051;
         public static final int eqTypeSpinner=0x7f0c0050;
-        public static final int eqsetting=0x7f0c00cd;
-        public static final int eqsoundeffect=0x7f0c00d3;
+        public static final int eqsetting=0x7f0c00cc;
+        public static final int eqsoundeffect=0x7f0c00d2;
         public static final int fragment_slideoutmenu=0x7f0c0093;
         public static final int frequency16KHzBar=0x7f0c0060;
         public static final int frequency1KHzBar=0x7f0c005a;
@@ -1212,7 +1211,7 @@ containing a value of this type.
         public static final int llRoot=0x7f0c0097;
         public static final int main_fragment=0x7f0c007a;
         public static final int margin=0x7f0c0014;
-        public static final int menu=0x7f0c00cc;
+        public static final int menu=0x7f0c00cb;
         public static final int musicAblumText=0x7f0c00ba;
         public static final int musicAritst=0x7f0c0096;
         public static final int musicArtistText=0x7f0c00b9;
@@ -1236,7 +1235,7 @@ containing a value of this type.
         public static final int music_list=0x7f0c0062;
         public static final int musicplayBtnLayout=0x7f0c009a;
         public static final int mute=0x7f0c0077;
-        public static final int nodigitalsoundeffect=0x7f0c00d2;
+        public static final int nodigitalsoundeffect=0x7f0c00d1;
         public static final int normal=0x7f0c0008;
         public static final int notification_indicator=0x7f0c00c4;
         public static final int placeholderText=0x7f0c0052;
@@ -1260,14 +1259,14 @@ containing a value of this type.
         public static final int sc7_toolbox_title=0x7f0c00ad;
         public static final int sc8_toolbox_title=0x7f0c00af;
         public static final int sc9_toolbox_title=0x7f0c00b1;
-        public static final int search=0x7f0c00cf;
+        public static final int search=0x7f0c00ce;
         public static final int searchProgressBar=0x7f0c0049;
         public static final int selected_view=0x7f0c0006;
         public static final int showCustom=0x7f0c000c;
         public static final int showHome=0x7f0c000d;
         public static final int showTitle=0x7f0c000e;
         public static final int slidingmenumain=0x7f0c00c9;
-        public static final int soundsetting=0x7f0c00d1;
+        public static final int soundsetting=0x7f0c00d0;
         public static final int specialCatalog10BtnLayout=0x7f0c00b2;
         public static final int specialCatalog1BtnLayout=0x7f0c00a0;
         public static final int specialCatalog2BtnLayout=0x7f0c00a2;
@@ -1364,12 +1363,11 @@ containing a value of this type.
     }
     public static final class menu {
         public static final int connection_menu=0x7f0d0000;
-        public static final int disconnection_menu=0x7f0d0001;
-        public static final int eqsetting_menu=0x7f0d0002;
-        public static final int listsetting4alarmclock_menu=0x7f0d0003;
-        public static final int listsetting4radio_menu=0x7f0d0004;
-        public static final int radio_menu=0x7f0d0005;
-        public static final int soundsetting_menu=0x7f0d0006;
+        public static final int eqsetting_menu=0x7f0d0001;
+        public static final int listsetting4alarmclock_menu=0x7f0d0002;
+        public static final int listsetting4radio_menu=0x7f0d0003;
+        public static final int radio_menu=0x7f0d0004;
+        public static final int soundsetting_menu=0x7f0d0005;
     }
     public static final class string {
         public static final int ab_subtitle=0x7f0a0000;

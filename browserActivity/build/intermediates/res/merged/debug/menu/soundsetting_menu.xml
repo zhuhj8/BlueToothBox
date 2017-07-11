@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
         android:id="@+id/menu"
@@ -9,31 +9,28 @@
         <menu>
             <item
                 android:id="@+id/soundsetting"
+                android:showAsAction="always"
                 android:title="@string/menu_title_sound"
-                android:titleCondensed="@string/menu_title_sound"
-                android:showAsAction="always">
+                android:titleCondensed="@string/menu_title_sound">
                 <menu>
                     <item
                         android:id="@+id/nodigitalsoundeffect"
                         android:showAsAction="withText"
                         android:title="@string/menu_item_nosound"
                         android:titleCondensed="@string/menu_item_nosound"
-                        android:visible="true">
-                    </item>
-                     <item
+                        android:visible="true"></item>
+                    <item
                         android:id="@+id/eqsoundeffect"
                         android:showAsAction="withText"
                         android:title="@string/menu_item_eqsound"
                         android:titleCondensed="@string/menu_item_eqsound"
-                        android:visible="true">
-                    </item>
-                     <item
+                        android:visible="true"></item>
+                    <item
                         android:id="@+id/daesoundeffect"
                         android:showAsAction="withText"
                         android:title="@string/menu_item_daesound"
                         android:titleCondensed="@string/menu_item_daesound"
-                        android:visible="true">
-                    </item>
+                        android:visible="true"></item>
                 </menu>
             </item>
         </menu>

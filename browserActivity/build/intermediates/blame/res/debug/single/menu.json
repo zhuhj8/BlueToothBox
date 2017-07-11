@@ -12,10 +12,6 @@
         "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\soundsetting_menu.xml"
     },
     {
-        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\disconnection_menu.xml",
-        "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\disconnection_menu.xml"
-    },
-    {
         "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\menu\\eqsetting_menu.xml",
         "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\menu\\eqsetting_menu.xml"
     },

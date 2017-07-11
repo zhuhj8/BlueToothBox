@@ -64,12 +64,12 @@
         "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_bar.xml"
     },
     {
-        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
-        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
-    },
-    {
         "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_item_rec_cardplayback.xml",
         "source": "E:\\Android\\Android project3\\browserActivity\\src\\main\\res\\layout\\sliding_item_rec_cardplayback.xml"
+    },
+    {
+        "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
     },
     {
         "merged": "E:\\Android\\Android project3\\browserActivity\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_radio.xml",

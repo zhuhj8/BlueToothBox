@@ -96,7 +96,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
     private Context mContext;
     private int mMode = FuncMode.UNKNOWN;
     private boolean mFragmentStacked = false;
-    private A2DPMusicFragment mA2DPMusicFragment;
+    private A2DPMusicFragment mA2DPMusicFragment;//音乐播放界面
     private View mEQDialogView;
     private View mEqSettingLayout;
     private Spinner mEqTypeSpinner;
@@ -128,11 +128,11 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.v(TAG, "onCreate");
-        pauseMusic();
+        pauseMusic(); //暂停系统自带的播放器
         Log.v(TAG, "===================shine=============================");
         //获取屏幕参数
-        DisplayMetrics displayMetrics = getResources().getDisplayMetrics();
-        Log.v(TAG, "density=" + displayMetrics.density + ", densityDpi=" + displayMetrics.densityDpi);
+//        DisplayMetrics displayMetrics = getResources().getDisplayMetrics();
+//        Log.v(TAG, "density=" + displayMetrics.density + ", densityDpi=" + displayMetrics.densityDpi);
         //初始语音识别
         Log.v(TAG, "===================初始语音识别Start=============================");
         SpeechUtility.createUtility(BrowserActivity.this, "appid=" + getString(R.string.app_id));
@@ -144,8 +144,9 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         mBluzConnector = getBluzConnector();
         Log.v(TAG, "===================shine===1==========================");
         File cardFile = Environment.getExternalStorageDirectory();
-        System.out.println("=======total========================" + cardFile.getTotalSpace());
-        System.out.println("=======free========================" + cardFile.getFreeSpace());
+        Log.e(TAG, "=======total========================" + cardFile.getTotalSpace());
+        Log.e(TAG, "=======free========================" + cardFile.getFreeSpace());
+
         mLogcatThread = new LogcatThread();
         if (!cardFile.canWrite()) {
             String[] paths;
@@ -197,7 +198,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         if (!mFile.isDirectory()) {
             mFile.mkdir();
         }
-        if (mBluzConnector == null) {
+        if (mBluzConnector == null) {//判断是否支持蓝牙
             showNotSupportedDialog();
         }
 
@@ -205,12 +206,12 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
             mLogcatThread.start();
         }
 
-        mGlobalInfoLayout = findViewById(R.id.globalInfoLayout);
-        mDeviceNameText = (TextView) findViewById(R.id.deviceName_tv);
-        mSoundImageButton = (ImageButton) findViewById(R.id.mute);
+        mGlobalInfoLayout = findViewById(R.id.globalInfoLayout);//
+        mDeviceNameText = (TextView) findViewById(R.id.deviceName_tv);//设备名称
+        mSoundImageButton = (ImageButton) findViewById(R.id.mute);//无声按钮
         mSoundImageButton.setImageResource(R.drawable.selector_muteon_button);
-        mVolumeSeekBar = (SeekBar) findViewById(R.id.volume);
-        mBatteryImageView = (ImageView) findViewById(R.id.battery);
+        mVolumeSeekBar = (SeekBar) findViewById(R.id.volume);//进度条
+        mBatteryImageView = (ImageView) findViewById(R.id.battery);//电池图标
 
         Utils.setContext(mContext);
         Utils.setAlphaForView(mGlobalInfoLayout, 0.5f);
@@ -228,7 +229,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
     }
 
     private void avrcpSetup() {
-        mAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+        mAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);//获得系统播放管理器
         IntentFilter commandFilter = new IntentFilter();
         commandFilter.addAction(Constant.MusicPlayControl.SERVICECMD);
         commandFilter.addAction(Constant.MusicPlayControl.TOGGLEPAUSE_ACTION);
@@ -309,7 +310,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         }
     }
 
-    private void showLowElectricityRemindDialog() {
+    private void showLowElectricityRemindDialog() { //音响电量不足
         Builder builder = new AlertDialog.Builder(this);
         builder.setIcon(android.R.drawable.ic_dialog_alert);// ic_dialog_alert_holo_light
         builder.setTitle(R.string.charge_warm);
@@ -403,7 +404,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
     private long exitTime = 0;
 
     @Override
-    public void onBackPressed() {
+    public void onBackPressed() {//返回按钮处理
         if (System.currentTimeMillis() - exitTime > 2000) {
             Toast.makeText(this, R.string.message_press_quit, Toast.LENGTH_SHORT).show();
             exitTime = System.currentTimeMillis();
@@ -479,6 +480,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
                         }
                     });
 
+                    //热插拨
                     mBluzManager.setOnHotplugChangedListener(new OnHotplugChangedListener() {
 
                         @Override
@@ -616,6 +618,11 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         }
     }
 
+    /**
+     * 状态布局开关
+     *
+     * @param turnOn
+     */
     private void toggleGlobalInfo(boolean turnOn) {
         if (turnOn) {
             Utils.setAlphaForView(mGlobalInfoLayout, 1.0f);
@@ -683,9 +690,9 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         }
     }
 
-    private void setBluzDeviceDisconnected() {
+    private void setBluzDeviceDisconnected() {//蓝牙断开连接
         Log.i(TAG, "setBluzDeviceDisconnected");
-        stopMusicPlayer();
+        stopMusicPlayer();//停止播放
         toggleGlobalInfo(false);
         releaseManager();
         initFragment();
@@ -703,6 +710,9 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         return mBluzManager;
     }
 
+    /**
+     * EQ调节界面
+     */
     public void showEQSettingDialog() {
         initEQDialogView();
         AlertDialog dialog = new AlertDialog.Builder(this).setTitle(R.string.menu_title_sound).setView(mEQDialogView)
@@ -813,7 +823,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         mEqSeekBar[5] = (VerticalSeekBar) mEQDialogView.findViewById(R.id.frequency8KHzBar);
         mEqSeekBar[6] = (VerticalSeekBar) mEQDialogView.findViewById(R.id.frequency16KHzBar);
         for (int i = 0; i < mEqSeekBar.length; i++) {
-            mEqSeekBar[i].setOnSeekBarChangeListener(mSeekBarChangeListener);
+            mEqSeekBar[i].setOnSeekBarChangeListener(mSeekBarChangeListener);//EQ调节监听
         }
         mEqBandLevel.clear();
         // int[] normalLevel =
@@ -860,7 +870,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
                 } else {
                     mBluzManager.setDAEEQMode(mEQMode);
                 }
-                equalizerUpdateDisplay();
+                equalizerUpdateDisplay();//更新均衡器显示
             }
 
             @Override
@@ -958,6 +968,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         }
     };
 
+    //快进，快退操作
     private BroadcastReceiver mIntentReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
@@ -989,6 +1000,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         mAudioManager.registerMediaButtonEventReceiver(mBluetoothBoxControl);
     }
 
+    //实现
     @Override
     public void onAudioFocusChange(int focusChange) {
         Log.v(TAG, " onAudioFocusChange: " + focusChange);
@@ -1044,7 +1056,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         public void onConnected(BluetoothDevice device) {
             //获取蓝牙名
             mDeviceNameText.setText((device == null) ? null : device.getName());
-            setBluzDeviceChanged();
+            setBluzDeviceChanged(); //蓝牙设备变化
             stopBackgroundMusic();
         }
 
@@ -1055,7 +1067,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         }
     };
 
-    private void showNotSupportedDialog() {
+    private void showNotSupportedDialog() { //蓝牙不支持
         Builder builder = new AlertDialog.Builder(mContext);
         builder.setTitle(R.string.dialog_title_warning);
         builder.setMessage(R.string.notice_bluetooth_not_supported);
@@ -1160,6 +1172,7 @@ public class BrowserActivity extends BaseActivity implements OnAudioFocusChangeL
         return Integer.valueOf(Preferences.getPreferences(mContext, Preferences.KEY_DAE_MODE, 0).toString());
     }
 
+    //menu选择事件
     public void menuItemSelected(Menu menu, int itemIdSelected) {
         switch (itemIdSelected) {
             case R.id.nodigitalsoundeffect:

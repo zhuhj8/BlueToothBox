@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2008 The Android Open Source Project
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2008 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,9 +13,8 @@
      limitations under the License.
 -->
 
-<selector xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res/com.actions.bluetoothbox">
-    <item app:state_incharge="false" android:drawable="@drawable/battery_discharge" />
-    <item app:state_incharge="true" android:drawable="@drawable/battery_incharge" />
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res/com.actions.bluetoothbox">
+    <item android:drawable="@drawable/battery_discharge" app:state_incharge="false" />
+    <item android:drawable="@drawable/battery_incharge" app:state_incharge="true" />
 </selector>
 
