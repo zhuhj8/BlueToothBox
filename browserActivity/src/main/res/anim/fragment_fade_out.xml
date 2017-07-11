@@ -3,18 +3,20 @@
 
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate xmlns:android="http://schemas.android.com/apk/res/android"
-               android:interpolator="@android:anim/accelerate_decelerate_interpolator"
-               android:fromYDelta="0%p"
-               android:toYDelta="5%p"
-               android:duration="420" />
-    <alpha android:fromAlpha="1.0" android:toAlpha="0.0"
-           android:duration="420"/>
+        android:duration="420"
+        android:fromYDelta="0%p"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:toYDelta="5%p" />
+    <alpha
+        android:duration="420"
+        android:fromAlpha="1.0"
+        android:toAlpha="0.0" />
     <scale
-            android:fromXScale="1.0"
-            android:toXScale="0.95"
-            android:fromYScale="1.0"
-            android:toYScale="0.95"
-            android:pivotX="50%"
-            android:pivotY="5%"
-            android:duration="420" />
+        android:duration="420"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:pivotX="50%"
+        android:pivotY="5%"
+        android:toXScale="0.95"
+        android:toYScale="0.95" />
 </set>
